@@ -1,0 +1,500 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Dunedin City Council//Rubbish Collection week 1\, Friday pickup/
+ /EN
+X-WR-TIMEZONE:Pacific/Auckland
+BEGIN:VEVENT
+SUMMARY:📦 Yellow bin
+DTSTART;VALUE=DATE:20210205
+DTEND;VALUE=DATE:20210206
+UID:recycling-week1-2021-02-05
+DESCRIPTION:YELLOW WEEK: Rinsed rigid plastics\n1\, 2 and 5 only\, tins\, 
+ cans\, and clean\npaper and cardboard. No caps\, lids\,\npumps or trigger 
+ sprays.\n\nPlace all recycling and DCC black bags\nkerbside by 7am on your
+  collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍾 Blue bin
+DTSTART;VALUE=DATE:20210212
+DTEND;VALUE=DATE:20210213
+UID:recycling-week1-2021-02-12
+DESCRIPTION:BLUE WEEK: Unbroken glass\nbottles and jars\, with NO lids.\nN
+ o mirror glass.\n\nPlace all recycling and DCC black bags\nkerbside by 7am
+  on your collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📦 Yellow bin
+DTSTART;VALUE=DATE:20210219
+DTEND;VALUE=DATE:20210220
+UID:recycling-week1-2021-02-19
+DESCRIPTION:YELLOW WEEK: Rinsed rigid plastics\n1\, 2 and 5 only\, tins\, 
+ cans\, and clean\npaper and cardboard. No caps\, lids\,\npumps or trigger 
+ sprays.\n\nPlace all recycling and DCC black bags\nkerbside by 7am on your
+  collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍾 Blue bin
+DTSTART;VALUE=DATE:20210226
+DTEND;VALUE=DATE:20210227
+UID:recycling-week1-2021-02-26
+DESCRIPTION:BLUE WEEK: Unbroken glass\nbottles and jars\, with NO lids.\nN
+ o mirror glass.\n\nPlace all recycling and DCC black bags\nkerbside by 7am
+  on your collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📦 Yellow bin
+DTSTART;VALUE=DATE:20210305
+DTEND;VALUE=DATE:20210306
+UID:recycling-week1-2021-03-05
+DESCRIPTION:YELLOW WEEK: Rinsed rigid plastics\n1\, 2 and 5 only\, tins\, 
+ cans\, and clean\npaper and cardboard. No caps\, lids\,\npumps or trigger 
+ sprays.\n\nPlace all recycling and DCC black bags\nkerbside by 7am on your
+  collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍾 Blue bin
+DTSTART;VALUE=DATE:20210312
+DTEND;VALUE=DATE:20210313
+UID:recycling-week1-2021-03-12
+DESCRIPTION:BLUE WEEK: Unbroken glass\nbottles and jars\, with NO lids.\nN
+ o mirror glass.\n\nPlace all recycling and DCC black bags\nkerbside by 7am
+  on your collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📦 Yellow bin
+DTSTART;VALUE=DATE:20210319
+DTEND;VALUE=DATE:20210320
+UID:recycling-week1-2021-03-19
+DESCRIPTION:YELLOW WEEK: Rinsed rigid plastics\n1\, 2 and 5 only\, tins\, 
+ cans\, and clean\npaper and cardboard. No caps\, lids\,\npumps or trigger 
+ sprays.\n\nPlace all recycling and DCC black bags\nkerbside by 7am on your
+  collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍾 Blue bin
+DTSTART;VALUE=DATE:20210326
+DTEND;VALUE=DATE:20210327
+UID:recycling-week1-2021-03-26
+DESCRIPTION:BLUE WEEK: Unbroken glass\nbottles and jars\, with NO lids.\nN
+ o mirror glass.\n\nPlace all recycling and DCC black bags\nkerbside by 7am
+  on your collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📦 Yellow bin
+DTSTART;VALUE=DATE:20210403
+DTEND;VALUE=DATE:20210404
+UID:recycling-week1-2021-04-03
+DESCRIPTION:YELLOW WEEK: Rinsed rigid plastics\n1\, 2 and 5 only\, tins\, 
+ cans\, and clean\npaper and cardboard. No caps\, lids\,\npumps or trigger 
+ sprays.\n\nPlace all recycling and DCC black bags\nkerbside by 7am on your
+  collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍾 Blue bin
+DTSTART;VALUE=DATE:20210409
+DTEND;VALUE=DATE:20210410
+UID:recycling-week1-2021-04-09
+DESCRIPTION:BLUE WEEK: Unbroken glass\nbottles and jars\, with NO lids.\nN
+ o mirror glass.\n\nPlace all recycling and DCC black bags\nkerbside by 7am
+  on your collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📦 Yellow bin
+DTSTART;VALUE=DATE:20210416
+DTEND;VALUE=DATE:20210417
+UID:recycling-week1-2021-04-16
+DESCRIPTION:YELLOW WEEK: Rinsed rigid plastics\n1\, 2 and 5 only\, tins\, 
+ cans\, and clean\npaper and cardboard. No caps\, lids\,\npumps or trigger 
+ sprays.\n\nPlace all recycling and DCC black bags\nkerbside by 7am on your
+  collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍾 Blue bin
+DTSTART;VALUE=DATE:20210423
+DTEND;VALUE=DATE:20210424
+UID:recycling-week1-2021-04-23
+DESCRIPTION:BLUE WEEK: Unbroken glass\nbottles and jars\, with NO lids.\nN
+ o mirror glass.\n\nPlace all recycling and DCC black bags\nkerbside by 7am
+  on your collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📦 Yellow bin
+DTSTART;VALUE=DATE:20210430
+DTEND;VALUE=DATE:20210501
+UID:recycling-week1-2021-04-30
+DESCRIPTION:YELLOW WEEK: Rinsed rigid plastics\n1\, 2 and 5 only\, tins\, 
+ cans\, and clean\npaper and cardboard. No caps\, lids\,\npumps or trigger 
+ sprays.\n\nPlace all recycling and DCC black bags\nkerbside by 7am on your
+  collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍾 Blue bin
+DTSTART;VALUE=DATE:20210507
+DTEND;VALUE=DATE:20210508
+UID:recycling-week1-2021-05-07
+DESCRIPTION:BLUE WEEK: Unbroken glass\nbottles and jars\, with NO lids.\nN
+ o mirror glass.\n\nPlace all recycling and DCC black bags\nkerbside by 7am
+  on your collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📦 Yellow bin
+DTSTART;VALUE=DATE:20210514
+DTEND;VALUE=DATE:20210515
+UID:recycling-week1-2021-05-14
+DESCRIPTION:YELLOW WEEK: Rinsed rigid plastics\n1\, 2 and 5 only\, tins\, 
+ cans\, and clean\npaper and cardboard. No caps\, lids\,\npumps or trigger 
+ sprays.\n\nPlace all recycling and DCC black bags\nkerbside by 7am on your
+  collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍾 Blue bin
+DTSTART;VALUE=DATE:20210521
+DTEND;VALUE=DATE:20210522
+UID:recycling-week1-2021-05-21
+DESCRIPTION:BLUE WEEK: Unbroken glass\nbottles and jars\, with NO lids.\nN
+ o mirror glass.\n\nPlace all recycling and DCC black bags\nkerbside by 7am
+  on your collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📦 Yellow bin
+DTSTART;VALUE=DATE:20210528
+DTEND;VALUE=DATE:20210529
+UID:recycling-week1-2021-05-28
+DESCRIPTION:YELLOW WEEK: Rinsed rigid plastics\n1\, 2 and 5 only\, tins\, 
+ cans\, and clean\npaper and cardboard. No caps\, lids\,\npumps or trigger 
+ sprays.\n\nPlace all recycling and DCC black bags\nkerbside by 7am on your
+  collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍾 Blue bin
+DTSTART;VALUE=DATE:20210604
+DTEND;VALUE=DATE:20210605
+UID:recycling-week1-2021-06-04
+DESCRIPTION:BLUE WEEK: Unbroken glass\nbottles and jars\, with NO lids.\nN
+ o mirror glass.\n\nPlace all recycling and DCC black bags\nkerbside by 7am
+  on your collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📦 Yellow bin
+DTSTART;VALUE=DATE:20210611
+DTEND;VALUE=DATE:20210612
+UID:recycling-week1-2021-06-11
+DESCRIPTION:YELLOW WEEK: Rinsed rigid plastics\n1\, 2 and 5 only\, tins\, 
+ cans\, and clean\npaper and cardboard. No caps\, lids\,\npumps or trigger 
+ sprays.\n\nPlace all recycling and DCC black bags\nkerbside by 7am on your
+  collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍾 Blue bin
+DTSTART;VALUE=DATE:20210618
+DTEND;VALUE=DATE:20210619
+UID:recycling-week1-2021-06-18
+DESCRIPTION:BLUE WEEK: Unbroken glass\nbottles and jars\, with NO lids.\nN
+ o mirror glass.\n\nPlace all recycling and DCC black bags\nkerbside by 7am
+  on your collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📦 Yellow bin
+DTSTART;VALUE=DATE:20210625
+DTEND;VALUE=DATE:20210626
+UID:recycling-week1-2021-06-25
+DESCRIPTION:YELLOW WEEK: Rinsed rigid plastics\n1\, 2 and 5 only\, tins\, 
+ cans\, and clean\npaper and cardboard. No caps\, lids\,\npumps or trigger 
+ sprays.\n\nPlace all recycling and DCC black bags\nkerbside by 7am on your
+  collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍾 Blue bin
+DTSTART;VALUE=DATE:20210702
+DTEND;VALUE=DATE:20210703
+UID:recycling-week1-2021-07-02
+DESCRIPTION:BLUE WEEK: Unbroken glass\nbottles and jars\, with NO lids.\nN
+ o mirror glass.\n\nPlace all recycling and DCC black bags\nkerbside by 7am
+  on your collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📦 Yellow bin
+DTSTART;VALUE=DATE:20210709
+DTEND;VALUE=DATE:20210710
+UID:recycling-week1-2021-07-09
+DESCRIPTION:YELLOW WEEK: Rinsed rigid plastics\n1\, 2 and 5 only\, tins\, 
+ cans\, and clean\npaper and cardboard. No caps\, lids\,\npumps or trigger 
+ sprays.\n\nPlace all recycling and DCC black bags\nkerbside by 7am on your
+  collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍾 Blue bin
+DTSTART;VALUE=DATE:20210716
+DTEND;VALUE=DATE:20210717
+UID:recycling-week1-2021-07-16
+DESCRIPTION:BLUE WEEK: Unbroken glass\nbottles and jars\, with NO lids.\nN
+ o mirror glass.\n\nPlace all recycling and DCC black bags\nkerbside by 7am
+  on your collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📦 Yellow bin
+DTSTART;VALUE=DATE:20210723
+DTEND;VALUE=DATE:20210724
+UID:recycling-week1-2021-07-23
+DESCRIPTION:YELLOW WEEK: Rinsed rigid plastics\n1\, 2 and 5 only\, tins\, 
+ cans\, and clean\npaper and cardboard. No caps\, lids\,\npumps or trigger 
+ sprays.\n\nPlace all recycling and DCC black bags\nkerbside by 7am on your
+  collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍾 Blue bin
+DTSTART;VALUE=DATE:20210730
+DTEND;VALUE=DATE:20210731
+UID:recycling-week1-2021-07-30
+DESCRIPTION:BLUE WEEK: Unbroken glass\nbottles and jars\, with NO lids.\nN
+ o mirror glass.\n\nPlace all recycling and DCC black bags\nkerbside by 7am
+  on your collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📦 Yellow bin
+DTSTART;VALUE=DATE:20210806
+DTEND;VALUE=DATE:20210807
+UID:recycling-week1-2021-08-06
+DESCRIPTION:YELLOW WEEK: Rinsed rigid plastics\n1\, 2 and 5 only\, tins\, 
+ cans\, and clean\npaper and cardboard. No caps\, lids\,\npumps or trigger 
+ sprays.\n\nPlace all recycling and DCC black bags\nkerbside by 7am on your
+  collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍾 Blue bin
+DTSTART;VALUE=DATE:20210813
+DTEND;VALUE=DATE:20210814
+UID:recycling-week1-2021-08-13
+DESCRIPTION:BLUE WEEK: Unbroken glass\nbottles and jars\, with NO lids.\nN
+ o mirror glass.\n\nPlace all recycling and DCC black bags\nkerbside by 7am
+  on your collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📦 Yellow bin
+DTSTART;VALUE=DATE:20210820
+DTEND;VALUE=DATE:20210821
+UID:recycling-week1-2021-08-20
+DESCRIPTION:YELLOW WEEK: Rinsed rigid plastics\n1\, 2 and 5 only\, tins\, 
+ cans\, and clean\npaper and cardboard. No caps\, lids\,\npumps or trigger 
+ sprays.\n\nPlace all recycling and DCC black bags\nkerbside by 7am on your
+  collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍾 Blue bin
+DTSTART;VALUE=DATE:20210827
+DTEND;VALUE=DATE:20210828
+UID:recycling-week1-2021-08-27
+DESCRIPTION:BLUE WEEK: Unbroken glass\nbottles and jars\, with NO lids.\nN
+ o mirror glass.\n\nPlace all recycling and DCC black bags\nkerbside by 7am
+  on your collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📦 Yellow bin
+DTSTART;VALUE=DATE:20210903
+DTEND;VALUE=DATE:20210904
+UID:recycling-week1-2021-09-03
+DESCRIPTION:YELLOW WEEK: Rinsed rigid plastics\n1\, 2 and 5 only\, tins\, 
+ cans\, and clean\npaper and cardboard. No caps\, lids\,\npumps or trigger 
+ sprays.\n\nPlace all recycling and DCC black bags\nkerbside by 7am on your
+  collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍾 Blue bin
+DTSTART;VALUE=DATE:20210910
+DTEND;VALUE=DATE:20210911
+UID:recycling-week1-2021-09-10
+DESCRIPTION:BLUE WEEK: Unbroken glass\nbottles and jars\, with NO lids.\nN
+ o mirror glass.\n\nPlace all recycling and DCC black bags\nkerbside by 7am
+  on your collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📦 Yellow bin
+DTSTART;VALUE=DATE:20210917
+DTEND;VALUE=DATE:20210918
+UID:recycling-week1-2021-09-17
+DESCRIPTION:YELLOW WEEK: Rinsed rigid plastics\n1\, 2 and 5 only\, tins\, 
+ cans\, and clean\npaper and cardboard. No caps\, lids\,\npumps or trigger 
+ sprays.\n\nPlace all recycling and DCC black bags\nkerbside by 7am on your
+  collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍾 Blue bin
+DTSTART;VALUE=DATE:20210924
+DTEND;VALUE=DATE:20210925
+UID:recycling-week1-2021-09-24
+DESCRIPTION:BLUE WEEK: Unbroken glass\nbottles and jars\, with NO lids.\nN
+ o mirror glass.\n\nPlace all recycling and DCC black bags\nkerbside by 7am
+  on your collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📦 Yellow bin
+DTSTART;VALUE=DATE:20211001
+DTEND;VALUE=DATE:20211002
+UID:recycling-week1-2021-10-01
+DESCRIPTION:YELLOW WEEK: Rinsed rigid plastics\n1\, 2 and 5 only\, tins\, 
+ cans\, and clean\npaper and cardboard. No caps\, lids\,\npumps or trigger 
+ sprays.\n\nPlace all recycling and DCC black bags\nkerbside by 7am on your
+  collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍾 Blue bin
+DTSTART;VALUE=DATE:20211008
+DTEND;VALUE=DATE:20211009
+UID:recycling-week1-2021-10-08
+DESCRIPTION:BLUE WEEK: Unbroken glass\nbottles and jars\, with NO lids.\nN
+ o mirror glass.\n\nPlace all recycling and DCC black bags\nkerbside by 7am
+  on your collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📦 Yellow bin
+DTSTART;VALUE=DATE:20211015
+DTEND;VALUE=DATE:20211016
+UID:recycling-week1-2021-10-15
+DESCRIPTION:YELLOW WEEK: Rinsed rigid plastics\n1\, 2 and 5 only\, tins\, 
+ cans\, and clean\npaper and cardboard. No caps\, lids\,\npumps or trigger 
+ sprays.\n\nPlace all recycling and DCC black bags\nkerbside by 7am on your
+  collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍾 Blue bin
+DTSTART;VALUE=DATE:20211022
+DTEND;VALUE=DATE:20211023
+UID:recycling-week1-2021-10-22
+DESCRIPTION:BLUE WEEK: Unbroken glass\nbottles and jars\, with NO lids.\nN
+ o mirror glass.\n\nPlace all recycling and DCC black bags\nkerbside by 7am
+  on your collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📦 Yellow bin
+DTSTART;VALUE=DATE:20211029
+DTEND;VALUE=DATE:20211030
+UID:recycling-week1-2021-10-29
+DESCRIPTION:YELLOW WEEK: Rinsed rigid plastics\n1\, 2 and 5 only\, tins\, 
+ cans\, and clean\npaper and cardboard. No caps\, lids\,\npumps or trigger 
+ sprays.\n\nPlace all recycling and DCC black bags\nkerbside by 7am on your
+  collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍾 Blue bin
+DTSTART;VALUE=DATE:20211105
+DTEND;VALUE=DATE:20211106
+UID:recycling-week1-2021-11-05
+DESCRIPTION:BLUE WEEK: Unbroken glass\nbottles and jars\, with NO lids.\nN
+ o mirror glass.\n\nPlace all recycling and DCC black bags\nkerbside by 7am
+  on your collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📦 Yellow bin
+DTSTART;VALUE=DATE:20211112
+DTEND;VALUE=DATE:20211113
+UID:recycling-week1-2021-11-12
+DESCRIPTION:YELLOW WEEK: Rinsed rigid plastics\n1\, 2 and 5 only\, tins\, 
+ cans\, and clean\npaper and cardboard. No caps\, lids\,\npumps or trigger 
+ sprays.\n\nPlace all recycling and DCC black bags\nkerbside by 7am on your
+  collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍾 Blue bin
+DTSTART;VALUE=DATE:20211119
+DTEND;VALUE=DATE:20211120
+UID:recycling-week1-2021-11-19
+DESCRIPTION:BLUE WEEK: Unbroken glass\nbottles and jars\, with NO lids.\nN
+ o mirror glass.\n\nPlace all recycling and DCC black bags\nkerbside by 7am
+  on your collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📦 Yellow bin
+DTSTART;VALUE=DATE:20211126
+DTEND;VALUE=DATE:20211127
+UID:recycling-week1-2021-11-26
+DESCRIPTION:YELLOW WEEK: Rinsed rigid plastics\n1\, 2 and 5 only\, tins\, 
+ cans\, and clean\npaper and cardboard. No caps\, lids\,\npumps or trigger 
+ sprays.\n\nPlace all recycling and DCC black bags\nkerbside by 7am on your
+  collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍾 Blue bin
+DTSTART;VALUE=DATE:20211203
+DTEND;VALUE=DATE:20211204
+UID:recycling-week1-2021-12-03
+DESCRIPTION:BLUE WEEK: Unbroken glass\nbottles and jars\, with NO lids.\nN
+ o mirror glass.\n\nPlace all recycling and DCC black bags\nkerbside by 7am
+  on your collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📦 Yellow bin
+DTSTART;VALUE=DATE:20211210
+DTEND;VALUE=DATE:20211211
+UID:recycling-week1-2021-12-10
+DESCRIPTION:YELLOW WEEK: Rinsed rigid plastics\n1\, 2 and 5 only\, tins\, 
+ cans\, and clean\npaper and cardboard. No caps\, lids\,\npumps or trigger 
+ sprays.\n\nPlace all recycling and DCC black bags\nkerbside by 7am on your
+  collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍾 Blue bin
+DTSTART;VALUE=DATE:20211217
+DTEND;VALUE=DATE:20211218
+UID:recycling-week1-2021-12-17
+DESCRIPTION:BLUE WEEK: Unbroken glass\nbottles and jars\, with NO lids.\nN
+ o mirror glass.\n\nPlace all recycling and DCC black bags\nkerbside by 7am
+  on your collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📦 Yellow bin
+DTSTART;VALUE=DATE:20211224
+DTEND;VALUE=DATE:20211225
+UID:recycling-week1-2021-12-24
+DESCRIPTION:YELLOW WEEK: Rinsed rigid plastics\n1\, 2 and 5 only\, tins\, 
+ cans\, and clean\npaper and cardboard. No caps\, lids\,\npumps or trigger 
+ sprays.\n\nPlace all recycling and DCC black bags\nkerbside by 7am on your
+  collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍾 Blue bin
+DTSTART;VALUE=DATE:20211231
+DTEND;VALUE=DATE:20220101
+UID:recycling-week1-2021-12-31
+DESCRIPTION:BLUE WEEK: Unbroken glass\nbottles and jars\, with NO lids.\nN
+ o mirror glass.\n\nPlace all recycling and DCC black bags\nkerbside by 7am
+  on your collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📦 Yellow bin
+DTSTART;VALUE=DATE:20220107
+DTEND;VALUE=DATE:20220108
+UID:recycling-week1-2022-01-07
+DESCRIPTION:YELLOW WEEK: Rinsed rigid plastics\n1\, 2 and 5 only\, tins\, 
+ cans\, and clean\npaper and cardboard. No caps\, lids\,\npumps or trigger 
+ sprays.\n\nPlace all recycling and DCC black bags\nkerbside by 7am on your
+  collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍾 Blue bin
+DTSTART;VALUE=DATE:20220114
+DTEND;VALUE=DATE:20220115
+UID:recycling-week1-2022-01-14
+DESCRIPTION:BLUE WEEK: Unbroken glass\nbottles and jars\, with NO lids.\nN
+ o mirror glass.\n\nPlace all recycling and DCC black bags\nkerbside by 7am
+  on your collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📦 Yellow bin
+DTSTART;VALUE=DATE:20220121
+DTEND;VALUE=DATE:20220122
+UID:recycling-week1-2022-01-21
+DESCRIPTION:YELLOW WEEK: Rinsed rigid plastics\n1\, 2 and 5 only\, tins\, 
+ cans\, and clean\npaper and cardboard. No caps\, lids\,\npumps or trigger 
+ sprays.\n\nPlace all recycling and DCC black bags\nkerbside by 7am on your
+  collection day.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍾 Blue bin
+DTSTART;VALUE=DATE:20220128
+DTEND;VALUE=DATE:20220129
+UID:recycling-week1-2022-01-28
+DESCRIPTION:BLUE WEEK: Unbroken glass\nbottles and jars\, with NO lids.\nN
+ o mirror glass.\n\nPlace all recycling and DCC black bags\nkerbside by 7am
+  on your collection day.
+END:VEVENT
+END:VCALENDAR
