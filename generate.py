@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 #
 # Generates ical files for Dunedin City Council recycling collection days.
+# Data comes from the "Let's Sort It Out" calendar
+# https://www.dunedin.govt.nz/services/rubbish-and-recycling/collection-days
 #
-# Ian Rees 2021
+# Ian Rees 2021-2022
 
 # python3 -m pip install icalendar
 from icalendar import Calendar, Event
@@ -12,10 +14,16 @@ from itertools import count
 
 # If a pickup would normally be `key`, do it `value` instead
 exceptions = {
-    date(2021, 4, 2): date(2021, 4, 3)
+    date(2021, 4, 2): date(2021, 4, 3),
+    date(2022, 1, 31): None,
+    date(2022, 4, 15): date(2022, 4, 16),
 }
 
-# For whatever reason, the collection calendar doesn't start on Jan 1
+# For whatever reason, the collection calendar doesn't start on Jan 1, which
+# makes iterating awkward.  I'd do this differently if starting now, but this
+# list is the date that "week one" starts with yellow bin pickup.  Years
+# unlike 2021 (when the year started with a complete week) need an exception
+# above, so that pickup days have the right phase.
 first_day_of_week = {
     2021: {
         "Monday": date(2021, 2, 1),
@@ -23,6 +31,13 @@ first_day_of_week = {
         "Wednesday": date(2021, 2, 3),
         "Thursday": date(2021, 2, 4),
         "Friday": date(2021, 2, 5),
+    },
+    2022: {
+        "Monday": date(2022, 1, 31),
+        "Tuesday": date(2022, 2, 1),
+        "Wednesday": date(2022, 2, 2),
+        "Thursday": date(2022, 2, 3),
+        "Friday": date(2022, 2, 4),
     }
     # Only define years after the exceptions are known for that year
 }
@@ -30,6 +45,7 @@ first_day_of_week = {
 # Stop generation for a particular year after this date
 last_day_of_year = {
     2021: date(2022, 1, 31),
+    2022: date(2023, 1, 31),
 }
 
 # DCC talks about "Week One" and "Week Two", instead let's talk about the colour
@@ -85,6 +101,9 @@ for colour_index in range(len(colours)):
 
                     if start in exceptions:
                         start = exceptions[start]
+                        if start is None:
+                            # This can happen at the start of the year
+                            continue
                     if start > last_day_of_year[year]:
                         break # I miss Rust already!
 
