@@ -4,7 +4,7 @@
 # Data comes from the "Let's Sort It Out" calendar
 # https://www.dunedin.govt.nz/services/rubbish-and-recycling/collection-days
 #
-# Ian Rees 2021-2022
+# Ian Rees 2021-2023
 
 # python3 -m pip install icalendar
 from icalendar import Calendar, Event
@@ -17,6 +17,8 @@ exceptions = {
     date(2021, 4, 2): date(2021, 4, 3),
     date(2022, 1, 31): None,
     date(2022, 4, 15): date(2022, 4, 16),
+    date(2023, 4, 7): date(2023, 4, 8),
+    date(2023, 12, 25): date(2023, 12, 30),
 }
 
 # For whatever reason, the collection calendar doesn't start on Jan 1, which
@@ -38,7 +40,14 @@ first_day_of_week = {
         "Wednesday": date(2022, 2, 2),
         "Thursday": date(2022, 2, 3),
         "Friday": date(2022, 2, 4),
-    }
+    },
+    2023: {
+        "Monday": date(2023, 1, 2),
+        "Tuesday": date(2023, 2, 3),
+        "Wednesday": date(2023, 2, 4),
+        "Thursday": date(2023, 2, 5),
+        "Friday": date(2023, 2, 6),
+    },
     # Only define years after the exceptions are known for that year
 }
 
@@ -46,6 +55,7 @@ first_day_of_week = {
 last_day_of_year = {
     2021: date(2022, 1, 31),
     2022: date(2023, 1, 31),
+    2023: date(2023, 12, 30),
 }
 
 # DCC talks about "Week One" and "Week Two", instead let's talk about the colour
