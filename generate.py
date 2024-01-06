@@ -4,7 +4,7 @@
 # Data comes from the "Let's Sort It Out" calendar
 # https://www.dunedin.govt.nz/services/rubbish-and-recycling/collection-days
 #
-# Ian Rees 2021-2023
+# Ian Rees 2021-2024
 
 # python3 -m pip install icalendar
 from icalendar import Calendar, Event
@@ -19,6 +19,8 @@ exceptions = {
     date(2022, 4, 15): date(2022, 4, 16),
     date(2023, 4, 7): date(2023, 4, 8),
     date(2023, 12, 25): date(2023, 12, 30),
+    date(2024, 1, 1): date(2024, 1, 6),
+    date(2024, 3, 29): date(2024, 3, 30),
 }
 
 # For whatever reason, the collection calendar doesn't start on Jan 1, which
@@ -48,14 +50,24 @@ first_day_of_week = {
         "Thursday": date(2023, 2, 5),
         "Friday": date(2023, 2, 6),
     },
+    2024: {
+        "Monday": date(2024, 1, 1),
+        "Tuesday": date(2024, 1, 2),
+        "Wednesday": date(2024, 1, 3),
+        "Thursday": date(2024, 1, 4),
+        "Friday": date(2024, 1, 5),
+    },
     # Only define years after the exceptions are known for that year
 }
 
 # Stop generation for a particular year after this date
+# TODO might be nice to stop generating when the subsequent year starts too -
+# currently get duplicates where the two calendars overlap
 last_day_of_year = {
     2021: date(2022, 1, 31),
     2022: date(2023, 1, 31),
     2023: date(2023, 12, 30),
+    2024: date(2024, 6, 28),
 }
 
 # DCC talks about "Week One" and "Week Two", instead let's talk about the colour
