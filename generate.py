@@ -21,6 +21,7 @@ exceptions = {
     date(2023, 12, 25): date(2023, 12, 30),
     date(2024, 1, 1): date(2024, 1, 6),
     date(2024, 3, 29): date(2024, 3, 30),
+    date(2024, 12, 25): date(2024, 12, 28),
 }
 
 # For whatever reason, the collection calendar doesn't start on Jan 1, which
@@ -67,8 +68,11 @@ last_day_of_year = {
     2021: date(2022, 1, 31),
     2022: date(2023, 1, 31),
     2023: date(2023, 12, 30),
-    2024: date(2024, 6, 28),
+    2024: date(2024, 12, 31),
 }
+
+# After this day, we use red bins for waste every second week
+red_bins_start = date(2024, 7, 1)
 
 # DCC talks about "Week One" and "Week Two", instead let's talk about the colour
 # bin collected on the first Monday/Tuesday/etc. since they cycle.
@@ -105,6 +109,27 @@ Place all recycling and DCC black bags
 kerbside by 7am on your collection day.""")
     return event
 
+def make_new_event(colour):
+    event = Event()
+    if colour == "Yellow":
+        event.add("summary", "🍂📦 Green and Yellow")
+        event.add("description",
+"""Yellow bin: Rinsed rigid plastics
+1, 2 and 5 only, tins, cans, and clean
+paper and cardboard. No caps, lids,
+pumps or trigger sprays.
+
+Place bins kerbside by 7am on your collection day.""")
+    elif colour == "Blue":
+        event.add("summary", "🍂🗑️🍾 Green, Red, and Blue")
+        event.add("description",
+"""Blue Bin: Unbroken glass
+bottles and jars, with NO lids.
+No mirror glass.
+
+Place bins kerbside by 7am on your collection day.""")
+    return event
+
 for colour_index in range(len(colours)):
     for weekday in day_of_week:
         filename = "week-{}-{}.ics".format(colour_index+1, weekday.lower())
@@ -130,7 +155,10 @@ for colour_index in range(len(colours)):
                         break # I miss Rust already!
 
                     colour = colours[(colour_index + week) % len(colours)]
-                    event = make_event(colour)
+                    if start >= red_bins_start:
+                        event = make_new_event(colour)
+                    else:
+                        event = make_event(colour)
                     event.add("dtstart", start)
                     event.add("dtend", start + timedelta(days=1))
                     # The UID needs to be reproducible for updates
