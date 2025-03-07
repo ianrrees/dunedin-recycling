@@ -4,7 +4,7 @@
 # Data comes from the "Let's Sort It Out" calendar
 # https://www.dunedin.govt.nz/services/rubbish-and-recycling/collection-days
 #
-# Ian Rees 2021-2024
+# Ian Rees 2021-2025
 
 # python3 -m pip install icalendar
 from icalendar import Calendar, Event
@@ -22,6 +22,9 @@ exceptions = {
     date(2024, 1, 1): date(2024, 1, 6),
     date(2024, 3, 29): date(2024, 3, 30),
     date(2024, 12, 25): date(2024, 12, 28),
+    date(2025, 1, 1): date(2025, 1, 4),
+    date(2025, 4, 18): date(2025, 4, 19),
+    date(2025, 12, 25): date(2025, 12, 27),
 }
 
 # For whatever reason, the collection calendar doesn't start on Jan 1, which
@@ -58,6 +61,13 @@ first_day_of_week = {
         "Thursday": date(2024, 1, 4),
         "Friday": date(2024, 1, 5),
     },
+    2025: {
+        "Monday": date(2025, 1, 6),
+        "Tuesday": date(2025, 1, 7),
+        "Wednesday": date(2025, 1, 1),
+        "Thursday": date(2025, 1, 2),
+        "Friday": date(2025, 1, 3),
+    },
     # Only define years after the exceptions are known for that year
 }
 
@@ -69,6 +79,7 @@ last_day_of_year = {
     2022: date(2023, 1, 31),
     2023: date(2023, 12, 30),
     2024: date(2024, 12, 31),
+    2025: date(2025, 12, 31),
 }
 
 # After this day, we use red bins for waste every second week
