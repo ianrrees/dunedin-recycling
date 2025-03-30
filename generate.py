@@ -62,8 +62,8 @@ first_day_of_week = {
         "Friday": date(2024, 1, 5),
     },
     2025: {
-        "Monday": date(2025, 1, 6),
-        "Tuesday": date(2025, 1, 7),
+        "Monday": date(2025, 1, 13),
+        "Tuesday": date(2025, 1, 14),
         "Wednesday": date(2025, 1, 1),
         "Thursday": date(2025, 1, 2),
         "Friday": date(2025, 1, 3),
