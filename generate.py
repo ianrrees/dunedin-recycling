@@ -25,6 +25,9 @@ exceptions = {
     date(2025, 1, 1): date(2025, 1, 4),
     date(2025, 4, 18): date(2025, 4, 19),
     date(2025, 12, 25): date(2025, 12, 27),
+    date(2026, 1, 1): date(2026, 1, 3),
+    date(2026, 4, 3): date(2026, 4, 4),
+    date(2026, 12, 25): date(2026, 12, 26),
 }
 
 # For whatever reason, the collection calendar doesn't start on Jan 1, which
@@ -68,6 +71,13 @@ first_day_of_week = {
         "Thursday": date(2025, 1, 2),
         "Friday": date(2025, 1, 3),
     },
+    2026: {
+        "Monday": date(2026, 1, 12),
+        "Tuesday": date(2026, 1, 13),
+        "Wednesday": date(2026, 1, 14),
+        "Thursday": date(2026, 1, 1),
+        "Friday": date(2026, 1, 2),
+    }
     # Only define years after the exceptions are known for that year
 }
 
@@ -80,6 +90,7 @@ last_day_of_year = {
     2023: date(2023, 12, 30),
     2024: date(2024, 12, 31),
     2025: date(2025, 12, 31),
+    2026: date(2026, 12, 31),
 }
 
 # After this day, we use red bins for waste every second week
